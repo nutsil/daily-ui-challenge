@@ -12,6 +12,7 @@ export function Header() {
           height="27"
         />
       </button>
+      <h1 className="header-section-title">Sign Up</h1>
     </header>
   );
 }
