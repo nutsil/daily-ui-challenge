@@ -1,3 +1,5 @@
+@import "src/assets/scss/variables.scss";
+
 .header-back-button {
   background-color: transparent;
   border: none;
@@ -8,4 +10,5 @@
 
 .header-section-title {
   font-size: 40px;
+  @include title-font;
 }

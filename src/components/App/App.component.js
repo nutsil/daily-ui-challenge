@@ -4,7 +4,7 @@ import "./App.styles.scss";
 
 export function App() {
   return (
-    <div>
+    <div className="app-wrapper">
       <Header />
     </div>
   );
