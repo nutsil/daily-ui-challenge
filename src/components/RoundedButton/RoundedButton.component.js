@@ -8,7 +8,11 @@ export function RoundedButton(props) {
   }
 
   return (
-    <button className={"rounded-button " + backgroundColorClass}>
+    <button
+      className={
+        "rounded-button " + backgroundColorClass + " " + props.className
+      }
+    >
       {props.iconButton}
       <span>{props.buttonText}</span>
     </button>
