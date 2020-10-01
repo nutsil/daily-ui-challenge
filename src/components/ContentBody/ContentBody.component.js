@@ -10,6 +10,10 @@ export function ContentBody() {
       <SignUpSocialNetwork />
       <p>or sign up whit email</p>
       <SignUpForm />
+      <p>By signing up you agreed our Terms of Services and Privacy Policy</p>
+      <p>
+        Already have account? <a href="./">Log in</a>
+      </p>
     </div>
   );
 }
