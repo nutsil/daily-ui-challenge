@@ -6,11 +6,13 @@ import "./ContentBody.styles.scss";
 
 export function ContentBody() {
   return (
-    <div>
+    <div className="content-body">
       <SignUpSocialNetwork />
-      <p>or sign up whit email</p>
+      <p className="content-body-text">or sign up whit email</p>
       <SignUpForm />
-      <p>By signing up you agreed our Terms of Services and Privacy Policy</p>
+      <p className="content-body-text">
+        By signing up you agreed our Terms of Services and Privacy Policy
+      </p>
       <p>
         Already have account? <a href="./">Log in</a>
       </p>

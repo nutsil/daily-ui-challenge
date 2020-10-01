@@ -5,7 +5,7 @@ import "./SignUpForm.styles.scss";
 
 export function SignUpForm() {
   return (
-    <form>
+    <form className="sign-up-form">
       <FormInput type="text" label="First Name" />
       <FormInput type="text" label="Last Name" />
       <FormInput type="email" label="Your Email" />
