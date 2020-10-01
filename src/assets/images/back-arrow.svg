@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Slice</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-4">
+            <rect id="Rectangle" x="0" y="0" width="35" height="35"></rect>
+            <g id="noun_back_1394873" transform="translate(9.000000, 9.000000)" fill="#1E1E1E" fill-rule="nonzero">
+                <g id="Group">
+                    <g id="Shape">
+                        <path d="M17,8 L1,8 C0.44771525,8 0,8.4477153 0,9 C0,9.5522847 0.44771525,10 1,10 L17,10 C17.5522847,10 18,9.5522847 18,9 C18,8.4477153 17.5522847,8 17,8 Z M9.7071068,1.70710678 C10.0976311,1.31658249 10.0976311,0.68341751 9.7071068,0.29289322 C9.3165825,-0.09763107 8.6834175,-0.09763107 8.2928932,0.29289322 L0.29289322,8.2928932 C-0.09763107,8.6834175 -0.09763107,9.3165825 0.29289322,9.7071068 L8.2928932,17.7071068 C8.6834175,18.0976311 9.3165825,18.0976311 9.7071068,17.7071068 C10.0976311,17.3165825 10.0976311,16.6834175 9.7071068,16.2928932 L2.41421356,9 L9.7071068,1.70710678 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
