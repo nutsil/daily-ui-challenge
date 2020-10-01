@@ -9,12 +9,7 @@ export function RoundedButton(props) {
 
   return (
     <button className={"rounded-button " + backgroundColorClass}>
-      <img
-        src="http://placekitten.com/27/27"
-        width="27"
-        height="27"
-        alt={props.buttonText}
-      />
+      {props.iconButton}
       <span>{props.buttonText}</span>
     </button>
   );
