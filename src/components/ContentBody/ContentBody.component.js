@@ -1,5 +1,5 @@
 import React from "react";
-import { SignUpForm } from "../SignUpForm/SignUpForm.somponent";
+import { SignUpForm } from "../SignUpForm/SignUpForm.component";
 import { SignUpSocialNetwork } from "../SignUpSocialNetwork/SignUpSocialNetwork.component";
 
 import "./ContentBody.styles.scss";

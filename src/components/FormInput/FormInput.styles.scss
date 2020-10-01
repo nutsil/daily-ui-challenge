@@ -1,0 +1,19 @@
+@import "src/assets/scss/variables.scss";
+
+.form-input {
+  border: none;
+  background-color: $base-color;
+  border-radius: 100px;
+  padding: 15px;
+  margin: 0 0 15px;
+  box-shadow: 0 0 20px 1px rgba($neutral-1-color, 0.15);
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  outline: none;
+  transition: all 0.3s ease;
+
+  &:focus {
+    box-shadow: 0 0 20px 1px rgba($neutral-1-color, 0.4);
+  }
+}
