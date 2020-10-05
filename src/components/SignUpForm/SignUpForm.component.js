@@ -10,7 +10,7 @@ export function SignUpForm() {
       <FormInput type="text" label="Last Name" />
       <FormInput type="email" label="Your Email" />
       <FormInput type="password" label="Password" />
-      <RoundedButton buttonText="Submit" />
+      <RoundedButton buttonText="Submit" className="submit-button" />
     </form>
   );
 }
