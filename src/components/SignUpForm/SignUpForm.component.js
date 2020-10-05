@@ -9,7 +9,11 @@ export function SignUpForm() {
       <FormInput type="text" label="First Name" />
       <FormInput type="text" label="Last Name" />
       <FormInput type="email" label="Your Email" />
-      <FormInput type="password" label="Password" />
+      <FormInput
+        type="password"
+        label="Password"
+        className="sign-up-last-input"
+      />
       <RoundedButton buttonText="Submit" className="submit-button" />
     </form>
   );
