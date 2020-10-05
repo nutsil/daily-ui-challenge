@@ -7,12 +7,12 @@ export function RoundedButton(props) {
     backgroundColorClass = "rounded-button-" + props.socialNetwork;
   }
 
+  //template literals
+
+  const className = `rounded-button ${backgroundColorClass} ${props.className}`;
+
   return (
-    <button
-      className={
-        "rounded-button " + backgroundColorClass + " " + props.className
-      }
-    >
+    <button className={className}>
       {props.iconButton}
       <span>{props.buttonText}</span>
     </button>
