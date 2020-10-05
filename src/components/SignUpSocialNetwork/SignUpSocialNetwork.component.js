@@ -6,7 +6,7 @@ import twitterIconSRC from "../../assets/images/twitter-icon.svg";
 
 export function SignUpSocialNetwork() {
   return (
-    <div>
+    <div className="social-network-buttons">
       <RoundedButton
         socialNetwork="facebook"
         buttonText="Facebook"
