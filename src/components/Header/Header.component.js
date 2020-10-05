@@ -4,7 +4,7 @@ import backArrowIconSRC from "../../assets/images/back-arrow.svg";
 
 export function Header() {
   return (
-    <header>
+    <header className="header">
       <button className="header-back-button">
         <img src={backArrowIconSRC} alt="Back to home" width="27" height="27" />
       </button>
