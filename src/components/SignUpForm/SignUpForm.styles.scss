@@ -9,4 +9,10 @@
 
 .submit-button {
   width: 100%;
+  box-shadow: 0 0 20px 1px rgba($neutral-1-color, 0.15);
+  transition: background 0.3s ease;
+
+  &:hover {
+    background: $neutral-1-color;
+  }
 }
