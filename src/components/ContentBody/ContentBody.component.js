@@ -13,7 +13,7 @@ export function ContentBody() {
       <p className="content-body-text">
         By signing up you agreed our Terms of Services and Privacy Policy
       </p>
-      <p>
+      <p className="log-in-text">
         Already have account? <a href="./">Log in</a>
       </p>
     </div>
